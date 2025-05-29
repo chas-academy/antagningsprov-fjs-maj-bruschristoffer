@@ -25,6 +25,7 @@ function overThirty(personArray){
         }
     }
 }
+overThirty(person)
 
 }
 
