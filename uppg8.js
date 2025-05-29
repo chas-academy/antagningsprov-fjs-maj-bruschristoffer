@@ -11,11 +11,11 @@ function uppg8(){
 
 // anropa funktionen och skicka med arrayen som argument
 let person = [
-    {name: "Christoffer", Age: 29},
-    {name: "Brus", Age: 19},
-    {name: "Michelle", Age: 27},
-    {name: "Chris", Age: 39},
-    {name: "Brusinator", Age: 100}
+    {name: "Christoffer", age: 29},
+    {name: "Brus", age: 19},
+    {name: "Michelle", age: 27},
+    {name: "Chris", age: 39},
+    {name: "Brusinator", age: 100}
 ];
 
 function overThirty(personArray){

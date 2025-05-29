@@ -13,9 +13,9 @@ function uppg9 (){
                 //%2 kollar hur många gånger får två plats i [i] i heltal. Om det inte går och det är något över är det ojämt/udda
                 // 4/2=0 ingen rest (jämt)
                 // 5/2=1 ett rest (udda)
-                console.log(numbers[i] + "jämnt");
+                console.log(numbers[i], "jämnt");
             } else {
-                console.log(numbers[i] + "udda");
+                console.log(numbers[i], "udda");
             }
         }
     }
